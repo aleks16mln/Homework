@@ -4,13 +4,13 @@ int i = 1;
 bool not = true;
 
 Console.WriteLine("Введите число:");
-int num = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Чётные числа от 1 до " + num);
-while (i <= num)
+int N = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Чётные числа от 1 до " + N);
+while (i <= N)
 {
-    if (i % 2 != 1)
+    if (i % 2 == 0)
     {
-        Console.Write(i + ", ");
+        Console.Write(i + ",");
         not = false;
     }
     i++;
