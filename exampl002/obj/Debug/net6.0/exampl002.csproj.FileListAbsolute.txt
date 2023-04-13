@@ -1,0 +1,15 @@
+C:\Users\16mln\Обучение\example\exampl002\bin\Debug\net6.0\exampl002.exe
+C:\Users\16mln\Обучение\example\exampl002\bin\Debug\net6.0\exampl002.deps.json
+C:\Users\16mln\Обучение\example\exampl002\bin\Debug\net6.0\exampl002.runtimeconfig.json
+C:\Users\16mln\Обучение\example\exampl002\bin\Debug\net6.0\exampl002.dll
+C:\Users\16mln\Обучение\example\exampl002\bin\Debug\net6.0\exampl002.pdb
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.csproj.AssemblyReference.cache
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.AssemblyInfoInputs.cache
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.AssemblyInfo.cs
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.csproj.CoreCompileInputs.cache
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.dll
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\refint\exampl002.dll
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.pdb
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\exampl002.genruntimeconfig.cache
+C:\Users\16mln\Обучение\example\exampl002\obj\Debug\net6.0\ref\exampl002.dll
